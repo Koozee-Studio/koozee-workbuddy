@@ -1,0 +1,22 @@
+{
+  "name": "Koozee",
+  "name_zh": "Koozee",
+  "name_en": "Koozee",
+  "description": "Create Fashion Workflows on a Free Canvas. Batch-Generate Fashion Images and Videos.",
+  "description_zh": "在自由画布上创建时尚工作流，批量生成时尚图片和视频。",
+  "description_en": "Create Fashion Workflows on a Free Canvas. Batch-Generate Fashion Images and Videos.",
+  "source": "koozee",
+  "type": "mcp",
+  "version": "1.0.0",
+  "minWorkbuddyVersion": "4.24.0",
+  "examples_zh": [
+    "在自由画布上创建时尚工作流，批量生成图片和视频",
+    "把画布上的卡片连起来，一起生成时尚图和视频",
+    "对这张照片做虚拟试衣，把结果放到画布上"
+  ],
+  "examples_en": [
+    "Create a fashion workflow on a free canvas and batch-generate images and videos",
+    "Generate a high-quality swimwear product image featuring a fashion model.",
+    "Run a virtual try-on on this photo and place the results on my canvas"
+  ]
+}
