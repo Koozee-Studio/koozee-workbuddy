@@ -2,21 +2,21 @@
   "name": "Koozee",
   "name_zh": "Koozee",
   "name_en": "Koozee",
-  "description": "Create Fashion Workflows on a Free Canvas. Batch-Generate Fashion Images and Videos.",
-  "description_zh": "在自由画布上创建时尚工作流，批量生成时尚图片和视频。",
-  "description_en": "Create Fashion Workflows on a Free Canvas. Batch-Generate Fashion Images and Videos.",
+  "description": "Create fashion images and videos with AI—all in one place.",
+  "description_zh": "用 AI 一站式创建时尚图片和视频。",
+  "description_en": "Create fashion images and videos with AI—all in one place.",
   "source": "koozee",
   "type": "mcp",
   "version": "1.0.0",
   "minWorkbuddyVersion": "4.24.0",
   "examples_zh": [
-    "在自由画布上创建时尚工作流，批量生成图片和视频",
-    "把画布上的卡片连起来，一起生成时尚图和视频",
-    "对这张照片做虚拟试衣，把结果放到画布上"
+    "用 Koozee 的虚拟试衣 Skill，自动把这 10 套衣服穿到对应模特身上。",
+    "用 Koozee 的 AI 背景 Skill，批量为这些服装生成吸睛的模特生活方式图。",
+    "用九宫格分镜 Skill，把这张模特照片做成适合社交媒体的时尚短视频。"
   ],
   "examples_en": [
-    "Create a fashion workflow on a free canvas and batch-generate images and videos",
-    "Generate a high-quality swimwear product image featuring a fashion model.",
-    "Run a virtual try-on on this photo and place the results on my canvas"
+    "Use Koozee’s Virtual Try-On Skill to automatically try these 10 outfits on their corresponding models.",
+    "Use Koozee’s AI Background Skill to batch-generate eye-catching on-model lifestyle images for these outfits.",
+    "Use the 9-Grid Storyboard Skill to turn this model photo into a short fashion video for social media."
   ]
 }

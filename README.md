@@ -1,8 +1,10 @@
 # Koozee for WorkBuddy
 
-Create fashion workflows on a free canvas. Batch-generate fashion images and videos.
+Create fashion images and videos with AI—all in one place.
 
-在自由画布上创建时尚工作流，批量生成时尚图片和视频。
+Koozee is an AI visual marketing tool for fashion retailers, brands, and entrepreneurs. Use it with WorkBuddy to create virtual try-ons, on-model lifestyle images, and fashion marketing videos with simple prompts. Let WorkBuddy run workflows to generate images and videos in batches, or build your own on Koozee’s visual canvas. From product listings to marketing campaigns, create compelling visuals and make your products stand out.
+
+用 AI 一站式创建时尚图片和视频。
 
 This repository is a WorkBuddy MCP + Skill connector. The clone root has `connector-meta.json`, `mcp.json`, `icon.svg`, and `skills/`.
 
